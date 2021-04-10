@@ -25,9 +25,5 @@ In addition to the required fields, there should be additional fields for other 
 <li>An <a href="https://github.com/Anino1996/Project2---Group3/blob/Main/ERD_Diagram.png">entity relationship diagram (ERD_Diagram.png)</a> detailing how the created tables relate to each other was then made via quickdatabasediagrams.com</li>
 
 
-<li> Finally, a PowerPoint presentation detailing the methodology followed in arriving at these solutions was prepared and presented on April 09, 2021.
-
-
-
-
+<li> Finally, <a href="https://github.com/Anino1996/Project2---Group3/blob/Main/Project%202%20Presentation.pdf">a presentation</a>, detailing the key methodologies and implementation applied in arriving at these solutions, was prepared and presented on April 09, 2021.
 
