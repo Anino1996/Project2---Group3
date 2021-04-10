@@ -18,7 +18,9 @@ In addition to the required fields, there should be additional fields for other 
 <li>A characters table with unique character names that links the actors and film tables together.</li>
 </ol>
 
-<p>The code for this project was written in Google Colab and can be found in <a href="></p>
+<p>The code for this project was written in Google Colab and can be found in <a href="https://github.com/Anino1996/Project2---Group3/blob/Main/Project_2_Group1.ipynb">Project_2_Group1.ipynb</a></p>.
+
+<p>An <a href="#">entity relationship diagram </a> was then made via quickdatabasediagrams.com</p>
 
 
 
